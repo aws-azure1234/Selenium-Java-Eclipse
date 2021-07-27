@@ -1,0 +1,50 @@
+package day02;
+
+public class LearnClass {
+	
+	//Class. Variable, Method and Object
+
+	/* Java: Static Data type programming language
+	 * *Class:
+	 * 
+	 *    -Variable: Data or information about that class.
+	 *        DataType variableName= Value;
+	 *        
+	 *    -Method : Find the action of the class
+	 *    
+	 *    Method Signature:
+	 *    
+	 *    Syntax:
+	 *    
+	 *    accessModifier returnType methodName() {
+	 *    
+	 *    //Body of the Method
+	 *    
+	 *    }
+	 *    
+	 *    AccessModifer:(Method)
+	 *    
+	 *    4 type of Access Modifier:
+	 *    
+	 *       -public                 | Class, Package, Global
+	 *       -default or No Modifer
+	 *       -protected
+	 *       -private
+	 *    
+	 *    -Constructor
+	 *    
+	 */
+	public void method1() {
+		System.out.println ("Method 01");
+	}
+	
+	void method2() {
+		System.out.println ("Method 02");
+	}
+	
+	public static void main(String[] args) {
+		LearnClass lc= new LearnClass();
+		lc.method1();
+		
+	}
+}

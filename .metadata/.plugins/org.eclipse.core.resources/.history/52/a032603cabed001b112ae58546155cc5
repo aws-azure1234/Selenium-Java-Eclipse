@@ -1,0 +1,21 @@
+package day02;
+
+public class Mobile {
+	//brandName
+	//model
+	//features
+	//price
+	String brandName = "Apple";
+	int price= 100000;
+	
+	//dialNum
+	public void dialNumber() {
+		System.out.println ("sending.....");
+	
+	}
+	//sendSMS
+	public void sendSMS() {
+		System.out.println ("dailing.....");
+	}
+
+}

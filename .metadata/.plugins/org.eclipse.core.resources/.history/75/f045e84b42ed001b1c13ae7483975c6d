@@ -1,0 +1,15 @@
+package day02;
+
+public class Mobile {
+	//brandName
+	//model
+	//features
+	//price
+	String brandName = "Apple";
+	int price= 100000;
+	
+	//dialNum
+	//sendSMS
+	
+
+}

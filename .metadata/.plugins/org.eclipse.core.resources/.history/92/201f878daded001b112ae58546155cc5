@@ -1,0 +1,11 @@
+package day01;
+import day02.LearnClass;
+
+public class Sample {
+	public static void main(String[] args) {
+		LearnClass lc = new LearnClass();
+		lc.method1();
+		
+	}
+
+}

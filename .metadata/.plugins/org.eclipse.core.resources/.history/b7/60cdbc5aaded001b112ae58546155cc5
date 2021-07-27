@@ -1,0 +1,16 @@
+package day02;
+
+public class CallMobile {
+	
+	public static void main (String[] args) {
+	
+		// ClassName obj = new ClassName();
+		Mobile priyanka = new Mobile();
+		priyanka.dailNumber();
+		
+		Mobile anish = new Mobile();
+		anish.dailNumber();
+		
+	}
+
+}

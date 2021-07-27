@@ -1,0 +1,10 @@
+package day02;
+
+public class CallAccessModifer {
+	public static void main(String[] args) {
+		LearnClass lc = new LearnClass();
+		lc.method1();
+		lc.method2();		
+	}
+
+}

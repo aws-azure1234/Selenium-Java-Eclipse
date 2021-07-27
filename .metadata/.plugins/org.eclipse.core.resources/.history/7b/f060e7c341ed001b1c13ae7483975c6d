@@ -1,0 +1,14 @@
+package day02;
+
+public class LearnClass {
+
+	/* Java: Static Data type programming language
+	 * *Class:
+	 *    -Variable: Data or information about that class.
+	 *        variableName= Value;
+	 *        
+	 *    -Method
+	 *    -Constructor
+	 *    
+	 */
+}
